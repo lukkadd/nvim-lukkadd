@@ -1,0 +1,33 @@
+return {
+    -- {
+    -- 	"nvim-orgmode/orgmode",
+    -- 	event = "VeryLazy",
+    -- 	ft = { "org" },
+    -- 	config = function()
+    -- 		-- Setup orgmode
+    -- 		require("orgmode").setup({
+    -- 			org_agenda_files = "C:/Users/lukka/SynologyDrive/notes/agenda/**/*",
+    -- 			-- org_default_notes_file = "~/orgfiles/refile.org",
+    -- 		})
+    -- 	end,
+    -- },
+    -- {
+    -- 	"chipsenkbeil/org-roam.nvim",
+    -- 	dependencies = {
+    -- 		{
+    -- 			"nvim-orgmode/orgmode",
+    -- 		},
+    -- 	},
+    -- 	config = function()
+    -- 		require("org-roam").setup({
+    -- 			directory = "C:/Users/lukka/SynologyDrive/notes/",
+    -- 			-- 	-- optional
+    -- 			-- 	-- org_files = {
+    -- 			-- 	-- 	"~/another_org_dir",
+    -- 			-- 	-- 	"~/some/folder/*.org",
+    -- 			-- 	-- 	"~/a/single/org_file.org",
+    -- 			-- 	-- },
+    -- 		})
+    -- 	end,
+    -- },
+}
